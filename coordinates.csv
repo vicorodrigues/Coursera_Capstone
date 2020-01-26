@@ -1,0 +1,475 @@
+Country,City,Subdivision,lat,lng
+Austria,Vienna,Alsergrund,48.22507335,16.358397599045787
+Austria,Vienna,Brigittenau,48.2438222,16.3781465486532
+Austria,Vienna,Döbling,48.2612506,16.328471020385248
+Austria,Vienna,Donaustadt,48.2143607,16.48607154089865
+Austria,Vienna,Favoriten,48.1529937,16.382821836477117
+Austria,Vienna,Floridsdorf,48.279815049999996,16.412134555336003
+Austria,Vienna,Hernals,48.2354031,16.284214218639107
+Austria,Vienna,Hietzing,48.17854095,16.25298581556564
+Austria,Vienna,Innere Stadt,48.2090229,16.36985112569659
+Austria,Vienna,Josefstadt,48.2108519,16.347359861911986
+Austria,Vienna,Landstraße,48.193643550000004,16.39628639135705
+Austria,Vienna,Leopoldstadt,48.2006384,16.42694811887545
+Austria,Vienna,Liesing,48.141106050000005,16.29391187772128
+Austria,Vienna,Margareten,48.18807345,16.35338607721009
+Austria,Vienna,Mariahilf,48.1954752,16.347023425336456
+Austria,Vienna,Meidling,48.1719649,16.32868740760034
+Austria,Vienna,Neubau,48.20226365,16.349122890358913
+Austria,Vienna,Ottakring,48.2149546,16.302153494876826
+Austria,Vienna,Penzing,48.22566175,16.222790144845575
+Austria,Vienna,Rudolfsheim-Fünfhaus,48.1954752,16.32630072151544
+Austria,Vienna,Simmering,48.16310865,16.458008805109422
+Austria,Vienna,Währing,48.234115,16.321605699999996
+Austria,Vienna,Wieden,48.2083537,16.3725042
+Belgium,Brussels,Anderlecht,50.8390983,4.3296526
+Belgium,Brussels,Auderghem,50.8172355,4.4268982
+Belgium,Brussels,Berchem-Sainte-Agathe,50.8649231,4.2946734
+Belgium,Brussels,Bruxelles-Ville,50.853966,4.352657599542228
+Belgium,Brussels,Etterbeek,50.8361447,4.3861737
+Belgium,Brussels,Evere,50.8720096,4.4034182
+Belgium,Brussels,Forest,50.811795,4.3181187
+Belgium,Brussels,Ganshoren,50.8703273,4.307798
+Belgium,Brussels,Ixelles,50.8331141,4.3668279
+Belgium,Brussels,Jette,50.8759585,4.3245702
+Belgium,Brussels,Koekelberg,50.8606042,4.3315503
+Belgium,Brussels,Molenbeek-Saint-Jean,50.8545959,4.338636
+Belgium,Brussels,Saint-Gilles,50.8267409,4.345668
+Belgium,Brussels,Saint-Josse-ten-Noode,50.8508197,4.3691634
+Belgium,Brussels,Schaerbeek,50.8676041,4.3737121
+Belgium,Brussels,Uccle,50.8035441,4.3338445
+Belgium,Brussels,Watermael-Boitsfort,50.7981063,4.4176441
+Belgium,Brussels,Woluwe-Saint-Lambert,50.8430448,4.4256732
+Belgium,Brussels,Woluwe-Saint-Pierre,50.8370253,4.4274636
+Bulgaria,Sofia,Bankya,42.7101251,23.1464966
+Bulgaria,Sofia,Ilinden,42.5805339,23.941429
+Bulgaria,Sofia,Iskar,43.129797,23.7995641
+Bulgaria,Sofia,Izgrev,42.67048135,23.351794403651937
+Bulgaria,Sofia,Krasna polyana,42.6921557,23.2829404
+Bulgaria,Sofia,Krasno selo,42.6736589,23.2825005
+Bulgaria,Sofia,Kremikovtsi,42.7843029,23.499576
+Bulgaria,Sofia,Lozenets,42.6734543,23.3256852
+Bulgaria,Sofia,Lyulin,42.7179526,23.2581421
+Bulgaria,Sofia,Mladost,42.6475353,23.382125068194245
+Bulgaria,Sofia,Nadezhda,42.7280197,23.3008789
+Bulgaria,Sofia,Novi Iskar,42.8143844,23.3582609
+Bulgaria,Sofia,Oborishte,42.6958089,23.343018653615893
+Bulgaria,Sofia,Ovcha kupel,42.6778469,23.2622161
+Bulgaria,Sofia,Pancharevo,42.5944337,23.4054539
+Bulgaria,Sofia,Poduyane,42.707064599999995,23.368427952748874
+Bulgaria,Sofia,Serdika,42.7337581,23.337294951063065
+Bulgaria,Sofia,Slatina,42.6867902,23.39869550400227
+Bulgaria,Sofia,Sredets,42.6633427,23.5982204
+Bulgaria,Sofia,Studentski,42.6466473,23.349826275873603
+Bulgaria,Sofia,Triaditsa,42.66923205,23.30271075111657
+Bulgaria,Sofia,Vazrazhdane,42.7776017,23.4938543
+Bulgaria,Sofia,Vitosha,42.56,23.28
+Bulgaria,Sofia,Vrabnitsa,42.759103350000004,23.247336814386458
+Croatia,Zagreb,Brezovica,45.7267929,15.9124026
+Croatia,Zagreb,Črnomerec,45.7827651,15.9378379
+Croatia,Zagreb,Donja Dubrava,45.8164089,16.0698548
+Croatia,Zagreb,Donji Grad,45.8098781,15.9770807
+Croatia,Zagreb,Gornja Dubrava,45.8647768,16.0568507
+Croatia,Zagreb,Gornji Grad – Medveščak,45.8259737,15.9748361
+Croatia,Zagreb,Maksimir,45.8333119,16.0101508
+Croatia,Zagreb,Novi Zagreb – istok,45.7595202,16.0079686
+Croatia,Zagreb,Novi Zagreb – zapad,45.7607382,15.9215519
+Croatia,Zagreb,Peščenica – Žitnjak,45.7875269,16.0459395
+Croatia,Zagreb,Podsljeme,45.888748,15.98454949590066
+Croatia,Zagreb,Podsused – Vrapče,45.8345283,15.8687417
+Croatia,Zagreb,Sesvete,45.8285372,16.1101218
+Croatia,Zagreb,Stenjevec,45.8006122,15.8794347
+Croatia,Zagreb,Trešnjevka – jug,45.7862657,15.922941
+Croatia,Zagreb,Trešnjevka – sjever,45.8016772,15.9403191
+Croatia,Zagreb,Trnje,45.762893,16.13841
+Cyprus,Nicosia,Ágios Dométios,35.1769168,33.3354319
+Cyprus,Nicosia,Aglantziá,35.1523806,33.3977301
+Cyprus,Nicosia,Anthoupolis,35.109248,33.2902534
+Cyprus,Nicosia,Engomi,35.15277315,33.304334458228915
+Cyprus,Nicosia,Géri,35.1068501,33.4204148
+Cyprus,Nicosia,Lakatámeia,35.1204351,33.30002520047745
+Cyprus,Nicosia,Latsiá,35.0995648,33.3815988
+Cyprus,Nicosia,Lefkosía,35.18089155,33.37325855497367
+Cyprus,Nicosia,Stróvolos,35.1327263,33.347342766866916
+Czech Republic,Prague,Prague 1,50.0874654,14.4212535
+Czech Republic,Prague,Prague 10,50.0874654,14.4212535
+Czech Republic,Prague,Prague 11,50.0874654,14.4212535
+Czech Republic,Prague,Prague 12,50.0874654,14.4212535
+Czech Republic,Prague,Prague 13,50.0874654,14.4212535
+Czech Republic,Prague,Prague 14,50.0874654,14.4212535
+Czech Republic,Prague,Prague 15,50.0874654,14.4212535
+Czech Republic,Prague,Prague 16,50.0874654,14.4212535
+Czech Republic,Prague,Prague 17,50.0874654,14.4212535
+Czech Republic,Prague,Prague 18,50.0874654,14.4212535
+Czech Republic,Prague,Prague 19,50.0874654,14.4212535
+Czech Republic,Prague,Prague 2,50.0874654,14.4212535
+Czech Republic,Prague,Prague 20,50.0874654,14.4212535
+Czech Republic,Prague,Prague 21,50.0874654,14.4212535
+Czech Republic,Prague,Prague 22,50.0874654,14.4212535
+Czech Republic,Prague,Prague 3,50.0874654,14.4212535
+Czech Republic,Prague,Prague 4,50.0874654,14.4212535
+Czech Republic,Prague,Prague 5,50.0874654,14.4212535
+Czech Republic,Prague,Prague 6,50.0874654,14.4212535
+Czech Republic,Prague,Prague 7,50.0874654,14.4212535
+Czech Republic,Prague,Prague 8,50.0874654,14.4212535
+Czech Republic,Prague,Prague 9,50.0874654,14.4212535
+Denmark,Copenhagen,Amager East,55.62437565,12.603853037932112
+Denmark,Copenhagen,Amager West,55.62437565,12.603853037932112
+Denmark,Copenhagen,Bispebjerg,55.7109502,12.5340004
+Denmark,Copenhagen,Brønshøj-Husum,55.704536,12.5014454
+Denmark,Copenhagen,Indre By,55.6779635,12.5697518
+Denmark,Copenhagen,Nørrebro,55.6958939,12.5449561
+Denmark,Copenhagen,Østerbro,55.7050841,12.5826141
+Denmark,Copenhagen,Sydhavnen ,55.6552302,12.5619822
+Denmark,Copenhagen,Valby,55.6618019,12.5169523
+Denmark,Copenhagen,Vanløse,55.6856249,12.4888093
+Denmark,Copenhagen,Vesterbro,55.6681576,12.559064
+Estonia,Tallinn,Haabersti,59.42530835,24.649146615116425
+Estonia,Tallinn,Kesklinn,59.41604235,24.765141294398227
+Estonia,Tallinn,Kristiine,59.4138355,24.712460787099033
+Estonia,Tallinn,Lasnamäe,59.4348069,24.859608735641327
+Estonia,Tallinn,Mustamäe,59.4048649,24.67679263591183
+Estonia,Tallinn,Nõmme,59.3732762,24.689565708963134
+Estonia,Tallinn,Pirita,59.47455455,24.872632356726193
+Estonia,Tallinn,Põhja-Tallinn,59.4580143,24.683527584092957
+Finland,Helsinki,Alppiharju,60.189728,24.9441203
+Finland,Helsinki,Haaga,60.218425800000006,24.897974367424354
+Finland,Helsinki,Herttoniemi,60.1955246,25.0290632
+Finland,Helsinki,Itä-Pakila,60.2453263,24.9597377
+Finland,Helsinki,Jakomäki,60.2591712,25.0784439
+Finland,Helsinki,Kaarela,60.2518665,24.873084563415222
+Finland,Helsinki,Kallio,60.1839816,24.9524515
+Finland,Helsinki,Kulosaari,60.1853879,25.0096847
+Finland,Helsinki,Laajasalo,60.1732049,25.0449197
+Finland,Helsinki,Länsi-Pakila,60.2435384,24.9269126
+Finland,Helsinki,Latokartano,60.2278399,25.036586413377016
+Finland,Helsinki,Lauttasaari,60.1593692,24.8753044
+Finland,Helsinki,Malmi,60.2507611,25.0085738
+Finland,Helsinki,Maunula,60.2312122,24.9325239
+Finland,Helsinki,Mellunkylä,60.23596475,25.08921785102395
+Finland,Helsinki,Munkkiniemi,60.1990937,24.8743585
+Finland,Helsinki,Myllypuro,60.225008,25.0757356
+Finland,Helsinki,Östersundom,60.25960365,25.187008478540385
+Finland,Helsinki,Oulunkylä,60.2294429,24.9635828
+Finland,Helsinki,Pasila,60.197873,24.9322653
+Finland,Helsinki,Pitäjänmäki,60.222711,24.8643556
+Finland,Helsinki,Puistola,60.2760327,25.036777
+Finland,Helsinki,Pukinmäki,60.245247,24.9896936
+Finland,Helsinki,Suutarila,60.283019,25.0064817
+Finland,Helsinki,Taka-Töölö,60.1853441,24.9167329
+Finland,Helsinki,Tuomarinkylä,60.2572811,24.9680161
+Finland,Helsinki,Ullanlinna,60.1587146,24.949404
+Finland,Helsinki,Vallila,60.1961671,24.9567103
+Finland,Helsinki,Vanhakaupunki,60.2141157,24.9791849
+Finland,Helsinki,Vartiokylä,60.2119555,25.081440702390843
+Finland,Helsinki,Vuosaari,60.2083483,25.1435537
+France,Paris,Paris 10e Arrondissement,48.876008049999996,2.360445036409199
+France,Paris,Paris 11e Arrondissement,48.860071149999996,2.3781433620616133
+France,Paris,Paris 12e Arrondissement,48.83520025,2.445135854630304
+France,Paris,Paris 13e Arrondissement,48.82985295,2.3630259501036406
+France,Paris,Paris 14e Arrondissement,48.8295667,2.3239624642685364
+France,Paris,Paris 15e Arrondissement,48.841430200000005,2.296164933019397
+France,Paris,Paris 16e Arrondissement,48.85715055,2.2567311894375015
+France,Paris,Paris 17e Arrondissement,48.88743895,2.3065228678413767
+France,Paris,Paris 18e Arrondissement,48.89212585,2.3481775453229785
+France,Paris,Paris 19e Arrondissement,48.88721865,2.3831026295673827
+France,Paris,Paris 1er Arrondissement,48.8621576,2.337035643537315
+France,Paris,Paris 20e Arrondissement,48.8618271,2.4010730598176093
+France,Paris,Paris 2e Arrondissement,48.8676844,2.343126295040478
+France,Paris,Paris 3e Arrondissement,48.86268345,2.3586851044879937
+France,Paris,Paris 4e Arrondissement,48.85415595,2.3567892289437014
+France,Paris,Paris 5e Arrondissement,48.8454189,2.3525815263156975
+France,Paris,Paris 6e Arrondissement,48.8493919,2.3322597335758593
+France,Paris,Paris 7e Arrondissement,48.85491365,2.312859739726366
+France,Paris,Paris 8e Arrondissement,48.8732651,2.311161752669828
+France,Paris,Paris 9e Arrondissement,48.87706995,2.3379212854897715
+Germany,Berlin,Berlin-Mitte,52.53321645,13.359795660679708
+Germany,Berlin,Charlottenburg - Wilmersdorf,52.5078558,13.2639518
+Germany,Berlin,Friedrichshain - Kreuzberg,52.5153063,13.4616117
+Germany,Berlin,Lichtenberg,52.5321606,13.5118927
+Germany,Berlin,Marzahn - Hellersdorf,52.5225225,13.5876634
+Germany,Berlin,Neukölln,52.4811497,13.4353501
+Germany,Berlin,Pankow,52.597636699999995,13.436373975411648
+Germany,Berlin,Reinickendorf,52.6047631,13.2952872
+Germany,Berlin,Spandau,52.535788,13.1977924
+Germany,Berlin,Steglitz - Zehlendorf,52.4292052,13.2299741
+Germany,Berlin,Tempelhof - Schöneberg,52.4406033,13.3737035
+Germany,Berlin,Treptow - Köpenick,52.417893,13.6001848
+Greece,Athens,Exarchia,37.9852539,23.7395109
+Greece,Athens,Gazi,37.97481315,23.702751202560243
+Greece,Athens,Kolonaki,37.9769749,23.7408135
+Greece,Athens,Makrigianni,38.0509945,23.8331268
+Greece,Athens,Omonia Square,37.983945,23.7279215
+Greece,Athens,Plaka,37.9728505,23.7300556
+Greece,Athens,Thissio,37.9740677,23.7199605
+Hungary,Budapest,District I,47.4983815,19.0404707
+Hungary,Budapest,District II,47.5686915,19.027668183360795
+Hungary,Budapest,District III,47.5686915,19.027668183360795
+Hungary,Budapest,District IV,47.57777895,19.093163614886215
+Hungary,Budapest,District IX,47.4650699,19.096752305959427
+Hungary,Budapest,District V,47.47569285,19.268779648096157
+Hungary,Budapest,District VI,47.50807715,19.064426195263955
+Hungary,Budapest,District VII,47.5026271,19.077243325017964
+Hungary,Budapest,District X,47.57777895,19.093163614886215
+Hungary,Budapest,District XI,47.57777895,19.093163614886215
+Hungary,Budapest,District XII,47.5048,18.982814888468894
+Hungary,Budapest,District XIII,47.5368042,19.074198629461726
+Hungary,Budapest,District XIV,47.52300395,19.114512673001514
+Hungary,Budapest,District XIX,47.44563005,19.141509555441495
+Hungary,Budapest,District XV,47.562713599999995,19.14021824045608
+Hungary,Budapest,District XVI,47.51826560000001,19.20429469308958
+Hungary,Budapest,District XVII,47.47569285,19.268779648096157
+Hungary,Budapest,District XVIII,47.4265874,19.207279490445814
+Hungary,Budapest,District XX,47.43309885,19.11880571821414
+Hungary,Budapest,District XXI,47.424317,19.069213818602236
+Hungary,Budapest,District XXII,47.41038385,19.000966525667373
+Hungary,Budapest,District XXIII,47.38851235,19.150641924710705
+Ireland,Dublin,Dublin 1,53.3524881,-6.256645689721826
+Ireland,Dublin,Dublin 10,53.34321655,-6.360963597131269
+Ireland,Dublin,Dublin 11,53.386613600000004,-6.292626932293775
+Ireland,Dublin,Dublin 12,53.32052905,-6.3288241420909905
+Ireland,Dublin,Dublin 13,53.3856513,-6.075383318320214
+Ireland,Dublin,Dublin 14,53.2986473,-6.25820118261262
+Ireland,Dublin,Dublin 15,53.39493455,-6.389208544937581
+Ireland,Dublin,Dublin 16,53.2557218,-6.296344944223276
+Ireland,Dublin,Dublin 17,53.400360750000004,-6.209491170965708
+Ireland,Dublin,Dublin 18,53.24093525,-6.183345330490052
+Ireland,Dublin,Dublin 19,53.3497645,-6.2602732
+Ireland,Dublin,Dublin 2,53.33894015,-6.252712821759609
+Ireland,Dublin,Dublin 20,53.3523699,-6.3723251372301215
+Ireland,Dublin,Dublin 21,53.3340302,-6.255617739987624
+Ireland,Dublin,Dublin 22,53.31701835,-6.438519072737426
+Ireland,Dublin,Dublin 23,53.3340302,-6.255617739987624
+Ireland,Dublin,Dublin 24,53.2479888,-6.424349898216628
+Ireland,Dublin,Dublin 3,53.361223100000004,-6.1854668060000355
+Ireland,Dublin,Dublin 4,53.32750729999999,-6.227485885927834
+Ireland,Dublin,Dublin 5,53.3834538,-6.181923245473566
+Ireland,Dublin,Dublin 6,53.3176976,-6.259525132569765
+Ireland,Dublin,Dublin 7,53.3605505,-6.28446550135915
+Ireland,Dublin,Dublin 8,53.350262900000004,-6.320212883866121
+Ireland,Dublin,Dublin 9,53.3860497,-6.245577085317763
+Italy,Rome,Municipio I,41.9034912,12.4528349
+Italy,Rome,Municipio II,41.9056765,12.500712
+Italy,Rome,Municipio III,41.9034912,12.4528349
+Italy,Rome,Municipio IV,41.9333439,12.5987962
+Italy,Rome,Municipio IX,41.9034912,12.4528349
+Italy,Rome,Municipio V,42.07418105,12.901749441260165
+Italy,Rome,Municipio VI,41.9034912,12.4528349
+Italy,Rome,Municipio VII,41.854007249999995,12.57016111370225
+Italy,Rome,Municipio VIII,41.9034912,12.4528349
+Italy,Rome,Municipio X,42.07418105,12.901749441260165
+Italy,Rome,Municipio XI,41.6092064,12.5453377
+Italy,Rome,Municipio XII,42.0797744,12.400975963721226
+Italy,Rome,Municipio XIII,41.9034912,12.4528349
+Italy,Rome,Municipio XIV,41.9034912,12.4528349
+Italy,Rome,Municipio XV,41.9034912,12.4528349
+Latvia,Riga,Central District,None,None
+Latvia,Riga,Kurzeme District,None,None
+Latvia,Riga,Latgale Suburb,None,None
+Latvia,Riga,Northern District,None,None
+Latvia,Riga,Vidzeme Suburb,None,None
+Latvia,Riga,Zemgale Suburb,None,None
+Lithuania,Vilnius,Antakalnis,54.7056388,25.3145377
+Lithuania,Vilnius,Fabijoniškės,54.7264112,25.2492422
+Lithuania,Vilnius,Grigiškės,54.6744932,25.08908162551551
+Lithuania,Vilnius,Justiniškės,54.71786,25.2202048
+Lithuania,Vilnius,Karoliniškės,54.693085,25.2131579
+Lithuania,Vilnius,Lazdynai,54.6760345,25.2099318
+Lithuania,Vilnius,Naujamiestis,54.6809958,25.2651214
+Lithuania,Vilnius,Naujininkai,54.6612223,25.2718256
+Lithuania,Vilnius,Naujoji Vilnia,54.695211,25.4030535
+Lithuania,Vilnius,Paneriai,54.7855528,24.9120123
+Lithuania,Vilnius,Pašilaičiai,54.7284868,25.2289162
+Lithuania,Vilnius,Pilaitė,54.7056763,25.1835024
+Lithuania,Vilnius,Rasos,54.6689571,25.2986051
+Lithuania,Vilnius,Senamiestis,54.6818728,25.2884035
+Lithuania,Vilnius,Šeškinė,54.7126527,25.2522029
+Lithuania,Vilnius,Šnipiškės,54.7017555,25.2785584
+Lithuania,Vilnius,Verkiai,54.7506573,25.2947674
+Lithuania,Vilnius,Vilkpėdė,54.666744,25.2437768
+Lithuania,Vilnius,Viršuliškės,54.705351,25.228871
+Lithuania,Vilnius,Žirmūnai,54.7111722,25.2988095
+Lithuania,Vilnius,Žvėrynas,54.6946327,25.2510333
+Luxembourg,Luxembourg,Beggen,49.642947500000005,6.129600237263739
+Luxembourg,Luxembourg,Belair,49.61146575,6.1079235689560445
+Luxembourg,Luxembourg,Cents,49.6163979,6.16210732397101
+Luxembourg,Luxembourg,Cessange,49.58528975,6.095940820743934
+Luxembourg,Luxembourg,Clausen,49.61441775,6.143084738242873
+Luxembourg,Luxembourg,Dommeldange,49.6424054,6.143384627144911
+Luxembourg,Luxembourg,Eich,49.63176085,6.134022977853395
+Luxembourg,Luxembourg,Gare,49.601963749999996,6.130254991300048
+Luxembourg,Luxembourg,Gasperich,49.5789669,6.118003878073413
+Luxembourg,Luxembourg,Grund,49.6083109,6.137484935366912
+Luxembourg,Luxembourg,Hamm,49.6109913,6.179343718378714
+Luxembourg,Luxembourg,Hollerich,49.6021549,6.11611258532035
+Luxembourg,Luxembourg,Kirchberg,49.6278334,6.1596669
+Luxembourg,Luxembourg,Limpertsberg,49.620881499999996,6.119030701439998
+Luxembourg,Luxembourg,Merl,49.600549900000004,6.091001011848574
+Luxembourg,Luxembourg,Muhlenbach,49.637545349999996,6.115478109527048
+Luxembourg,Luxembourg,Neudorf-Weimershof,49.6258873,6.170355877178916
+Luxembourg,Luxembourg,North Bonnevoie-Verlorenkost,49.5999324,6.1352784
+Luxembourg,Luxembourg,Pfaffenthal,49.6180407,6.1321718934878255
+Luxembourg,Luxembourg,Pulvermuhl,49.607077450000006,6.150646119675934
+Luxembourg,Luxembourg,Rollingergrund-North Belair,49.6138288,6.1190686
+Luxembourg,Luxembourg,South Bonnevoie,49.59725085,6.144884432204399
+Luxembourg,Luxembourg,Ville Haute,49.61156665,6.127099103680573
+Luxembourg,Luxembourg,Weimerskirch,49.629609650000006,6.139541214418987
+Malta,Valletta,Valletta,35.89480155,14.50858048159407
+Netherlands,Amsterdam,Centrum,52.3737301,4.8956908
+Netherlands,Amsterdam,Nieuw-West,52.3637773,4.8138122
+Netherlands,Amsterdam,Noord,52.4017392,4.9153521
+Netherlands,Amsterdam,Oost,52.3566078,4.9305774
+Netherlands,Amsterdam,West,52.3766721,4.863724
+Netherlands,Amsterdam,Westpoort,52.4114676,4.800573466659271
+Netherlands,Amsterdam,Zuid,52.3444702,4.8786639
+Netherlands,Amsterdam,Zuidoost,52.3105137,4.9606947
+Poland,Warsaw,Bemowo,52.2389738,20.9132881
+Poland,Warsaw,Białołęka,52.3196649,21.0211773
+Poland,Warsaw,Bielany,52.2946518,20.9299804
+Poland,Warsaw,Mokotów,52.1939874,21.0457809
+Poland,Warsaw,Ochota,52.212225,20.9726299
+Poland,Warsaw,Praga Północ,52.2648843,21.0273442
+Poland,Warsaw,Praga Południe,52.2373961,21.0712578
+Poland,Warsaw,Rembertów,52.2614149,21.1628191
+Poland,Warsaw,Śródmieście,52.2328098,21.019067
+Poland,Warsaw,Targówek,52.2751918,21.0580854
+Poland,Warsaw,Ursus,52.1960985,20.8828989
+Poland,Warsaw,Ursynów,52.141039,21.0323214
+Poland,Warsaw,Wawer,52.2203581,21.1370825
+Poland,Warsaw,Wesoła,52.2517942,21.2292763
+Poland,Warsaw,Wilanów,52.1530829,21.1104411
+Poland,Warsaw,Włochy,52.1861093,20.9484377
+Poland,Warsaw,Wola,52.2362379,20.9547815
+Poland,Warsaw,Żoliborz,52.2675944,20.9796975
+Portugal,Lisbon,Ajuda,38.71232685,-9.20124086834067
+Portugal,Lisbon,Alcântara,38.711057350000004,-9.182875921004499
+Portugal,Lisbon,Alvalade,38.753340800000004,-9.149139808585797
+Portugal,Lisbon,Areeiro,38.7423786,-9.1333962
+Portugal,Lisbon,Arroios,38.731932,-9.1342465
+Portugal,Lisbon,Avenidas Novas,38.73643625,-9.149824916390864
+Portugal,Lisbon,Beato,38.7326216,-9.110239570540049
+Portugal,Lisbon,Belém,38.6977695,-9.2094318
+Portugal,Lisbon,Benfica,38.738026950000005,-9.195298604626885
+Portugal,Lisbon,Campo de Ourique,38.718212699999995,-9.16522274104384
+Portugal,Lisbon,Campolide,38.73182715,-9.167911166284306
+Portugal,Lisbon,Carnide,38.7664262,-9.187443588533895
+Portugal,Lisbon,Estrela,38.707502399999996,-9.163197932988133
+Portugal,Lisbon,Lumiar,38.7713305,-9.163768329774571
+Portugal,Lisbon,Marvila,38.7482586,-9.112752040098734
+Portugal,Lisbon,Misericórdia,38.7106835,-9.148208839964797
+Portugal,Lisbon,Olivais,38.77032355,-9.125823414435962
+Portugal,Lisbon,Parque das Nações,38.7750147,-9.0972562382713
+Portugal,Lisbon,Penha de França,38.72839225,-9.123654674350814
+Portugal,Lisbon,Santa Clara,38.78605975,-9.153361346130197
+Portugal,Lisbon,Santa Maria Maior,38.71244015,-9.13281443966602
+Portugal,Lisbon,Santo António,38.7217012,-9.148989723959595
+Portugal,Lisbon,São Domingos de Benfica,38.74620965,-9.176214740466666
+Portugal,Lisbon,São Vicente,38.71834765,-9.125071258424402
+Romania,Bucharest,Sector 1,44.487945100000005,26.050154968478157
+Romania,Bucharest,Sector 2,44.459585450000006,26.130345830429007
+Romania,Bucharest,Sector 3,44.418242250000006,26.165109498942737
+Romania,Bucharest,Sector 4,44.381903699999995,26.11901893134285
+Romania,Bucharest,Sector 5,44.404906,26.0718655
+Romania,Bucharest,Sector 6,44.4478746,26.0324476
+Slovakia,Bratislava,Čunovo,48.030206,17.194905332797056
+Slovakia,Bratislava,Devín,48.1709058,17.010161203502584
+Slovakia,Bratislava,Devínska Nová Ves,48.22430850000001,16.98413011922154
+Slovakia,Bratislava,Dúbravka,48.186545249999995,17.02953456844665
+Slovakia,Bratislava,Jarovce,48.0613965,17.10227165493854
+Slovakia,Bratislava,Karlova Ves,48.159084,17.06004542886836
+Slovakia,Bratislava,Lamač,48.1911965,17.0542794
+Slovakia,Bratislava,Nové Mesto,48.1919631,17.09690094655255
+Slovakia,Bratislava,Petržalka,48.1115075,17.106419573596874
+Slovakia,Bratislava,Podunajské Biskupice,48.098991749999996,17.183134896586147
+Slovakia,Bratislava,Rača,48.2152349,17.149955648156133
+Slovakia,Bratislava,Rusovce,48.0467948,17.14156887554846
+Slovakia,Bratislava,Ružinov,48.143488500000004,17.16070216871738
+Slovakia,Bratislava,Staré Mesto,48.155136999999996,17.101020814713085
+Slovakia,Bratislava,Vajnory,48.21697825,17.194829962357264
+Slovakia,Bratislava,Vrakuňa,48.151912249999995,17.209564831583478
+Slovakia,Bratislava,Záhorská Bystrica,48.231517499999995,17.052969454333933
+Slovenia,Ljubljana,Bežigrad,46.0715227,14.509137
+Slovenia,Ljubljana,Center,46.0499803,14.5068602
+Slovenia,Ljubljana,Črnuče,46.1050061,14.5328616
+Slovenia,Ljubljana,Dravlje,46.0811396,14.4752006
+Slovenia,Ljubljana,Golovec,46.0347048,14.5356862
+Slovenia,Ljubljana,Jarše,46.0805963,14.5456003
+Slovenia,Ljubljana,Moste,46.0572825,14.5367559
+Slovenia,Ljubljana,Polje,46.0561216,14.5800079
+Slovenia,Ljubljana,Posavje,46.0897379,14.5089154
+Slovenia,Ljubljana,Rožnik,46.1286813,14.338579
+Slovenia,Ljubljana,Rudnik,46.0259882,14.5339317
+Slovenia,Ljubljana,Šentvid,46.0968344,14.466245
+Slovenia,Ljubljana,Šiška,46.0719565,14.4842032
+Slovenia,Ljubljana,Šmarna,46.1298579,14.463901
+Slovenia,Ljubljana,Sostro,46.0354884,14.607094
+Slovenia,Ljubljana,Trnovo,46.041719,14.5038838
+Slovenia,Ljubljana,Vič,46.0396927,14.4862039
+Spain,Madrid,Arganzuela,40.39806845,-3.6937339526567428
+Spain,Madrid,Barajas,40.47984005,-3.5802507041958043
+Spain,Madrid,Carabanchel,40.3811929,-3.7379756877336514
+Spain,Madrid,Centro,40.41755205,-3.7079411254760313
+Spain,Madrid,Chamartín,40.4607638,-3.677534058264615
+Spain,Madrid,Chamberí,40.43624735,-3.7038303534513837
+Spain,Madrid,Ciudad Lineal,40.448621349999996,-3.6548348401990136
+Spain,Madrid,Fuencarral-El Pardo,40.55634555,-3.7785905137518054
+Spain,Madrid,Hortaleza,40.4808253,-3.644027127801685
+Spain,Madrid,Latina,40.3880677,-3.7866060558371704
+Spain,Madrid,Moncloa-Aravaca,40.43949485,-3.7442035396547055
+Spain,Madrid,Moratalaz,40.4055207,-3.640173367486544
+Spain,Madrid,Puente de Vallecas,40.3835532,-3.65453548036571
+Spain,Madrid,Retiro,40.4081555,-3.677441328098954
+Spain,Madrid,Salamanca,40.43152685,-3.6747257985730952
+Spain,Madrid,San Blas-Canillejas,40.428919050000005,-3.604002428077398
+Spain,Madrid,Tetuán,40.46082135,-3.6995204270841526
+Spain,Madrid,Usera,40.3776019,-3.7033780862451047
+Spain,Madrid,Vicálvaro,40.3882402,-3.5771999648829857
+Spain,Madrid,Villa de Vallecas,40.35127525,-3.615942718538795
+Spain,Madrid,Villaverde,40.343092049999996,-3.694119041726066
+Sweden,Stockholm,Älvsjö,59.2758491,18.0018895
+Sweden,Stockholm,Bromma,59.3400654,17.933114561222684
+Sweden,Stockholm,Enskede-Årsta-Vantör,59.275670250000005,18.039642326129048
+Sweden,Stockholm,Farsta,59.2453471,18.0883657
+Sweden,Stockholm,Hägersten-Liljeholmen,59.3008658,17.985520620039118
+Sweden,Stockholm,Hässelby-Vällingby,59.3708048,17.841367523777624
+Sweden,Stockholm,Kungsholmen,59.3327422,18.023771900117097
+Sweden,Stockholm,Norrmalm,59.3340818,18.0629048
+Sweden,Stockholm,Östermalm,59.336723,18.0859178
+Sweden,Stockholm,Rinkeby-Kista,59.4107767,17.928258206762944
+Sweden,Stockholm,Skärholmen,59.2784087,17.8987451
+Sweden,Stockholm,Skarpnäck,59.2664372,18.1330727
+Sweden,Stockholm,Södermalm,59.3123782,18.06975557565056
+Sweden,Stockholm,Spånga-Tensta,59.38660135,17.891708673016325
+United Kingdom,London,Barking and Dagenham,51.5541171,0.15050434261994267
+United Kingdom,London,Barnet,51.6487843,-0.1729127
+United Kingdom,London,Bexley,51.4416793,0.150488
+United Kingdom,London,Brent,51.563825800000004,-0.2757596561855699
+United Kingdom,London,Bromley,51.4028046,0.0148142
+United Kingdom,London,Camden,51.5423045,-0.1395604
+United Kingdom,London,City of London,51.5156177,-0.0919983
+United Kingdom,London,City of Westminster,51.4973206,-0.137149
+United Kingdom,London,Croydon,51.3713049,-0.101957
+United Kingdom,London,Ealing,51.5126553,-0.3051952
+United Kingdom,London,Enfield,51.6520851,-0.0810175
+United Kingdom,London,Greenwich,51.4820845,-0.0045417
+United Kingdom,London,Hackney,51.5432402,-0.0493621
+United Kingdom,London,Hammersmith and Fulham,51.4920377,-0.2236401
+United Kingdom,London,Haringey,51.587929849999995,-0.10541010599099046
+United Kingdom,London,Harrow,51.5967688,-0.33727515543507014
+United Kingdom,London,Havering,51.5443687,-0.1443031798919795
+United Kingdom,London,Hillingdon,51.542519299999995,-0.44833493117949663
+United Kingdom,London,Hounslow,51.4686132,-0.3613471
+United Kingdom,London,Islington,51.5384287,-0.0999051
+United Kingdom,London,Kensington and Chelsea,51.4989948,-0.1991229
+United Kingdom,London,Kingston upon Thames,51.4096275,-0.3062621
+United Kingdom,London,Lambeth,51.5013012,-0.117287
+United Kingdom,London,Lewisham,51.4624325,-0.0101331
+United Kingdom,London,Merton,51.410802849999996,-0.18809850595572736
+United Kingdom,London,Newham,51.52999955,0.02931796029382208
+United Kingdom,London,Redbridge,51.5763203,0.0454097
+United Kingdom,London,Richmond upon Thames,51.44035365,-0.3081511776732277
+United Kingdom,London,Southwark,51.5029222,-0.103458
+United Kingdom,London,Sutton,51.3575114,-0.173640122600872
+United Kingdom,London,Tower Hamlets,51.5256294,-0.0335853
+United Kingdom,London,Waltham Forest,51.59816935,-0.01783667461048707
+United Kingdom,London,Wandsworth,51.4570271,-0.1932607

@@ -1,0 +1,475 @@
+﻿Country,City,Subdivision
+Austria,Vienna,Alsergrund
+Austria,Vienna,Brigittenau
+Austria,Vienna,Döbling
+Austria,Vienna,Donaustadt
+Austria,Vienna,Favoriten
+Austria,Vienna,Floridsdorf
+Austria,Vienna,Hernals
+Austria,Vienna,Hietzing
+Austria,Vienna,Innere Stadt
+Austria,Vienna,Josefstadt
+Austria,Vienna,Landstraße
+Austria,Vienna,Leopoldstadt
+Austria,Vienna,Liesing
+Austria,Vienna,Margareten
+Austria,Vienna,Mariahilf
+Austria,Vienna,Meidling
+Austria,Vienna,Neubau
+Austria,Vienna,Ottakring
+Austria,Vienna,Penzing
+Austria,Vienna,Rudolfsheim-Fünfhaus
+Austria,Vienna,Simmering
+Austria,Vienna,Währing
+Austria,Vienna,Wieden
+Belgium,Brussels,Anderlecht
+Belgium,Brussels,Auderghem
+Belgium,Brussels,Berchem-Sainte-Agathe
+Belgium,Brussels,Bruxelles-Ville
+Belgium,Brussels,Etterbeek
+Belgium,Brussels,Evere
+Belgium,Brussels,Forest
+Belgium,Brussels,Ganshoren
+Belgium,Brussels,Ixelles
+Belgium,Brussels,Jette
+Belgium,Brussels,Koekelberg
+Belgium,Brussels,Molenbeek-Saint-Jean
+Belgium,Brussels,Saint-Gilles
+Belgium,Brussels,Saint-Josse-ten-Noode
+Belgium,Brussels,Schaerbeek
+Belgium,Brussels,Uccle
+Belgium,Brussels,Watermael-Boitsfort
+Belgium,Brussels,Woluwe-Saint-Lambert
+Belgium,Brussels,Woluwe-Saint-Pierre
+Bulgaria,Sofia,Bankya
+Bulgaria,Sofia,Ilinden
+Bulgaria,Sofia,Iskar
+Bulgaria,Sofia,Izgrev
+Bulgaria,Sofia,Krasna polyana
+Bulgaria,Sofia,Krasno selo
+Bulgaria,Sofia,Kremikovtsi
+Bulgaria,Sofia,Lozenets
+Bulgaria,Sofia,Lyulin
+Bulgaria,Sofia,Mladost
+Bulgaria,Sofia,Nadezhda
+Bulgaria,Sofia,Novi Iskar
+Bulgaria,Sofia,Oborishte
+Bulgaria,Sofia,Ovcha kupel
+Bulgaria,Sofia,Pancharevo
+Bulgaria,Sofia,Poduyane
+Bulgaria,Sofia,Serdika
+Bulgaria,Sofia,Slatina
+Bulgaria,Sofia,Sredets
+Bulgaria,Sofia,Studentski
+Bulgaria,Sofia,Triaditsa
+Bulgaria,Sofia,Vazrazhdane
+Bulgaria,Sofia,Vitosha
+Bulgaria,Sofia,Vrabnitsa
+Croatia,Zagreb,Brezovica
+Croatia,Zagreb,Črnomerec
+Croatia,Zagreb,Donja Dubrava
+Croatia,Zagreb,Donji Grad
+Croatia,Zagreb,Gornja Dubrava
+Croatia,Zagreb,Gornji Grad – Medveščak
+Croatia,Zagreb,Maksimir
+Croatia,Zagreb,Novi Zagreb – istok
+Croatia,Zagreb,Novi Zagreb – zapad
+Croatia,Zagreb,Peščenica – Žitnjak
+Croatia,Zagreb,Podsljeme
+Croatia,Zagreb,Podsused – Vrapče
+Croatia,Zagreb,Sesvete
+Croatia,Zagreb,Stenjevec
+Croatia,Zagreb,Trešnjevka – jug
+Croatia,Zagreb,Trešnjevka – sjever
+Croatia,Zagreb,Trnje
+Cyprus,Nicosia,Ágios Dométios
+Cyprus,Nicosia,Aglantziá
+Cyprus,Nicosia,Anthoupolis
+Cyprus,Nicosia,Engomi
+Cyprus,Nicosia,Géri
+Cyprus,Nicosia,Lakatámeia
+Cyprus,Nicosia,Latsiá
+Cyprus,Nicosia,Lefkosía
+Cyprus,Nicosia,Stróvolos
+Czech Republic,Prague,Prague 1
+Czech Republic,Prague,Prague 10
+Czech Republic,Prague,Prague 11
+Czech Republic,Prague,Prague 12
+Czech Republic,Prague,Prague 13
+Czech Republic,Prague,Prague 14
+Czech Republic,Prague,Prague 15
+Czech Republic,Prague,Prague 16
+Czech Republic,Prague,Prague 17
+Czech Republic,Prague,Prague 18
+Czech Republic,Prague,Prague 19
+Czech Republic,Prague,Prague 2
+Czech Republic,Prague,Prague 20
+Czech Republic,Prague,Prague 21
+Czech Republic,Prague,Prague 22
+Czech Republic,Prague,Prague 3
+Czech Republic,Prague,Prague 4
+Czech Republic,Prague,Prague 5
+Czech Republic,Prague,Prague 6
+Czech Republic,Prague,Prague 7
+Czech Republic,Prague,Prague 8
+Czech Republic,Prague,Prague 9
+Denmark,Copenhagen,Amager East
+Denmark,Copenhagen,Amager West
+Denmark,Copenhagen,Bispebjerg
+Denmark,Copenhagen,Brønshøj-Husum
+Denmark,Copenhagen,Indre By
+Denmark,Copenhagen,Nørrebro
+Denmark,Copenhagen,Østerbro
+Denmark,Copenhagen,Sydhavnen 
+Denmark,Copenhagen,Valby
+Denmark,Copenhagen,Vanløse
+Denmark,Copenhagen,Vesterbro
+Estonia,Tallinn,Haabersti
+Estonia,Tallinn,Kesklinn
+Estonia,Tallinn,Kristiine
+Estonia,Tallinn,Lasnamäe
+Estonia,Tallinn,Mustamäe
+Estonia,Tallinn,Nõmme
+Estonia,Tallinn,Pirita
+Estonia,Tallinn,Põhja-Tallinn
+Finland,Helsinki,Alppiharju
+Finland,Helsinki,Haaga
+Finland,Helsinki,Herttoniemi
+Finland,Helsinki,Itä-Pakila
+Finland,Helsinki,Jakomäki
+Finland,Helsinki,Kaarela
+Finland,Helsinki,Kallio
+Finland,Helsinki,Kulosaari
+Finland,Helsinki,Laajasalo
+Finland,Helsinki,Länsi-Pakila
+Finland,Helsinki,Latokartano
+Finland,Helsinki,Lauttasaari
+Finland,Helsinki,Malmi
+Finland,Helsinki,Maunula
+Finland,Helsinki,Mellunkylä
+Finland,Helsinki,Munkkiniemi
+Finland,Helsinki,Myllypuro
+Finland,Helsinki,Östersundom
+Finland,Helsinki,Oulunkylä
+Finland,Helsinki,Pasila
+Finland,Helsinki,Pitäjänmäki
+Finland,Helsinki,Puistola
+Finland,Helsinki,Pukinmäki
+Finland,Helsinki,Suutarila
+Finland,Helsinki,Taka-Töölö
+Finland,Helsinki,Tuomarinkylä
+Finland,Helsinki,Ullanlinna
+Finland,Helsinki,Vallila
+Finland,Helsinki,Vanhakaupunki
+Finland,Helsinki,Vartiokylä
+Finland,Helsinki,Vuosaari
+France,Paris,Paris 10e Arrondissement
+France,Paris,Paris 11e Arrondissement
+France,Paris,Paris 12e Arrondissement
+France,Paris,Paris 13e Arrondissement
+France,Paris,Paris 14e Arrondissement
+France,Paris,Paris 15e Arrondissement
+France,Paris,Paris 16e Arrondissement
+France,Paris,Paris 17e Arrondissement
+France,Paris,Paris 18e Arrondissement
+France,Paris,Paris 19e Arrondissement
+France,Paris,Paris 1er Arrondissement
+France,Paris,Paris 20e Arrondissement
+France,Paris,Paris 2e Arrondissement
+France,Paris,Paris 3e Arrondissement
+France,Paris,Paris 4e Arrondissement
+France,Paris,Paris 5e Arrondissement
+France,Paris,Paris 6e Arrondissement
+France,Paris,Paris 7e Arrondissement
+France,Paris,Paris 8e Arrondissement
+France,Paris,Paris 9e Arrondissement
+Germany,Berlin,Berlin-Mitte
+Germany,Berlin,Charlottenburg - Wilmersdorf
+Germany,Berlin,Friedrichshain - Kreuzberg
+Germany,Berlin,Lichtenberg
+Germany,Berlin,Marzahn - Hellersdorf
+Germany,Berlin,Neukölln
+Germany,Berlin,Pankow
+Germany,Berlin,Reinickendorf
+Germany,Berlin,Spandau
+Germany,Berlin,Steglitz - Zehlendorf
+Germany,Berlin,Tempelhof - Schöneberg
+Germany,Berlin,Treptow - Köpenick
+Greece,Athens,Exarchia
+Greece,Athens,Gazi
+Greece,Athens,Kolonaki
+Greece,Athens,Makrigianni
+Greece,Athens,Omonia Square
+Greece,Athens,Plaka
+Greece,Athens,Thissio
+Hungary,Budapest,District I
+Hungary,Budapest,District II
+Hungary,Budapest,District III
+Hungary,Budapest,District IV
+Hungary,Budapest,District IX
+Hungary,Budapest,District V
+Hungary,Budapest,District VI
+Hungary,Budapest,District VII
+Hungary,Budapest,District X
+Hungary,Budapest,District XI
+Hungary,Budapest,District XII
+Hungary,Budapest,District XIII
+Hungary,Budapest,District XIV
+Hungary,Budapest,District XIX
+Hungary,Budapest,District XV
+Hungary,Budapest,District XVI
+Hungary,Budapest,District XVII
+Hungary,Budapest,District XVIII
+Hungary,Budapest,District XX
+Hungary,Budapest,District XXI
+Hungary,Budapest,District XXII
+Hungary,Budapest,District XXIII
+Ireland,Dublin,Dublin 1
+Ireland,Dublin,Dublin 10
+Ireland,Dublin,Dublin 11
+Ireland,Dublin,Dublin 12
+Ireland,Dublin,Dublin 13
+Ireland,Dublin,Dublin 14
+Ireland,Dublin,Dublin 15
+Ireland,Dublin,Dublin 16
+Ireland,Dublin,Dublin 17
+Ireland,Dublin,Dublin 18
+Ireland,Dublin,Dublin 19
+Ireland,Dublin,Dublin 2
+Ireland,Dublin,Dublin 20
+Ireland,Dublin,Dublin 21
+Ireland,Dublin,Dublin 22
+Ireland,Dublin,Dublin 23
+Ireland,Dublin,Dublin 24
+Ireland,Dublin,Dublin 3
+Ireland,Dublin,Dublin 4
+Ireland,Dublin,Dublin 5
+Ireland,Dublin,Dublin 6
+Ireland,Dublin,Dublin 7
+Ireland,Dublin,Dublin 8
+Ireland,Dublin,Dublin 9
+Italy,Rome,Municipio I
+Italy,Rome,Municipio II
+Italy,Rome,Municipio III
+Italy,Rome,Municipio IV
+Italy,Rome,Municipio IX
+Italy,Rome,Municipio V
+Italy,Rome,Municipio VI
+Italy,Rome,Municipio VII
+Italy,Rome,Municipio VIII
+Italy,Rome,Municipio X
+Italy,Rome,Municipio XI
+Italy,Rome,Municipio XII
+Italy,Rome,Municipio XIII
+Italy,Rome,Municipio XIV
+Italy,Rome,Municipio XV
+Latvia,Riga,Central District
+Latvia,Riga,Kurzeme District
+Latvia,Riga,Latgale Suburb
+Latvia,Riga,Northern District
+Latvia,Riga,Vidzeme Suburb
+Latvia,Riga,Zemgale Suburb
+Lithuania,Vilnius,Antakalnis
+Lithuania,Vilnius,Fabijoniškės
+Lithuania,Vilnius,Grigiškės
+Lithuania,Vilnius,Justiniškės
+Lithuania,Vilnius,Karoliniškės
+Lithuania,Vilnius,Lazdynai
+Lithuania,Vilnius,Naujamiestis
+Lithuania,Vilnius,Naujininkai
+Lithuania,Vilnius,Naujoji Vilnia
+Lithuania,Vilnius,Paneriai
+Lithuania,Vilnius,Pašilaičiai
+Lithuania,Vilnius,Pilaitė
+Lithuania,Vilnius,Rasos
+Lithuania,Vilnius,Senamiestis
+Lithuania,Vilnius,Šeškinė
+Lithuania,Vilnius,Šnipiškės
+Lithuania,Vilnius,Verkiai
+Lithuania,Vilnius,Vilkpėdė
+Lithuania,Vilnius,Viršuliškės
+Lithuania,Vilnius,Žirmūnai
+Lithuania,Vilnius,Žvėrynas
+Luxembourg,Luxembourg,Beggen
+Luxembourg,Luxembourg,Belair
+Luxembourg,Luxembourg,Cents
+Luxembourg,Luxembourg,Cessange
+Luxembourg,Luxembourg,Clausen
+Luxembourg,Luxembourg,Dommeldange
+Luxembourg,Luxembourg,Eich
+Luxembourg,Luxembourg,Gare
+Luxembourg,Luxembourg,Gasperich
+Luxembourg,Luxembourg,Grund
+Luxembourg,Luxembourg,Hamm
+Luxembourg,Luxembourg,Hollerich
+Luxembourg,Luxembourg,Kirchberg
+Luxembourg,Luxembourg,Limpertsberg
+Luxembourg,Luxembourg,Merl
+Luxembourg,Luxembourg,Muhlenbach
+Luxembourg,Luxembourg,Neudorf-Weimershof
+Luxembourg,Luxembourg,North Bonnevoie-Verlorenkost
+Luxembourg,Luxembourg,Pfaffenthal
+Luxembourg,Luxembourg,Pulvermuhl
+Luxembourg,Luxembourg,Rollingergrund-North Belair
+Luxembourg,Luxembourg,South Bonnevoie
+Luxembourg,Luxembourg,Ville Haute
+Luxembourg,Luxembourg,Weimerskirch
+Malta,Valletta,Valletta
+Netherlands,Amsterdam,Centrum
+Netherlands,Amsterdam,Nieuw-West
+Netherlands,Amsterdam,Noord
+Netherlands,Amsterdam,Oost
+Netherlands,Amsterdam,West
+Netherlands,Amsterdam,Westpoort
+Netherlands,Amsterdam,Zuid
+Netherlands,Amsterdam,Zuidoost
+Poland,Warsaw,Bemowo
+Poland,Warsaw,Białołęka
+Poland,Warsaw,Bielany
+Poland,Warsaw,Mokotów
+Poland,Warsaw,Ochota
+Poland,Warsaw,Praga Północ
+Poland,Warsaw,Praga Południe
+Poland,Warsaw,Rembertów
+Poland,Warsaw,Śródmieście
+Poland,Warsaw,Targówek
+Poland,Warsaw,Ursus
+Poland,Warsaw,Ursynów
+Poland,Warsaw,Wawer
+Poland,Warsaw,Wesoła
+Poland,Warsaw,Wilanów
+Poland,Warsaw,Włochy
+Poland,Warsaw,Wola
+Poland,Warsaw,Żoliborz
+Portugal,Lisbon,Ajuda
+Portugal,Lisbon,Alcântara
+Portugal,Lisbon,Alvalade
+Portugal,Lisbon,Areeiro
+Portugal,Lisbon,Arroios
+Portugal,Lisbon,Avenidas Novas
+Portugal,Lisbon,Beato
+Portugal,Lisbon,Belém
+Portugal,Lisbon,Benfica
+Portugal,Lisbon,Campo de Ourique
+Portugal,Lisbon,Campolide
+Portugal,Lisbon,Carnide
+Portugal,Lisbon,Estrela
+Portugal,Lisbon,Lumiar
+Portugal,Lisbon,Marvila
+Portugal,Lisbon,Misericórdia
+Portugal,Lisbon,Olivais
+Portugal,Lisbon,Parque das Nações
+Portugal,Lisbon,Penha de França
+Portugal,Lisbon,Santa Clara
+Portugal,Lisbon,Santa Maria Maior
+Portugal,Lisbon,Santo António
+Portugal,Lisbon,São Domingos de Benfica
+Portugal,Lisbon,São Vicente
+Romania,Bucharest,Sector 1
+Romania,Bucharest,Sector 2
+Romania,Bucharest,Sector 3
+Romania,Bucharest,Sector 4
+Romania,Bucharest,Sector 5
+Romania,Bucharest,Sector 6
+Slovakia,Bratislava,Čunovo
+Slovakia,Bratislava,Devín
+Slovakia,Bratislava,Devínska Nová Ves
+Slovakia,Bratislava,Dúbravka
+Slovakia,Bratislava,Jarovce
+Slovakia,Bratislava,Karlova Ves
+Slovakia,Bratislava,Lamač
+Slovakia,Bratislava,Nové Mesto
+Slovakia,Bratislava,Petržalka
+Slovakia,Bratislava,Podunajské Biskupice
+Slovakia,Bratislava,Rača
+Slovakia,Bratislava,Rusovce
+Slovakia,Bratislava,Ružinov
+Slovakia,Bratislava,Staré Mesto
+Slovakia,Bratislava,Vajnory
+Slovakia,Bratislava,Vrakuňa
+Slovakia,Bratislava,Záhorská Bystrica
+Slovenia,Ljubljana,Bežigrad
+Slovenia,Ljubljana,Center
+Slovenia,Ljubljana,Črnuče
+Slovenia,Ljubljana,Dravlje
+Slovenia,Ljubljana,Golovec
+Slovenia,Ljubljana,Jarše
+Slovenia,Ljubljana,Moste
+Slovenia,Ljubljana,Polje
+Slovenia,Ljubljana,Posavje
+Slovenia,Ljubljana,Rožnik
+Slovenia,Ljubljana,Rudnik
+Slovenia,Ljubljana,Šentvid
+Slovenia,Ljubljana,Šiška
+Slovenia,Ljubljana,Šmarna
+Slovenia,Ljubljana,Sostro
+Slovenia,Ljubljana,Trnovo
+Slovenia,Ljubljana,Vič
+Spain,Madrid,Arganzuela
+Spain,Madrid,Barajas
+Spain,Madrid,Carabanchel
+Spain,Madrid,Centro
+Spain,Madrid,Chamartín
+Spain,Madrid,Chamberí
+Spain,Madrid,Ciudad Lineal
+Spain,Madrid,Fuencarral-El Pardo
+Spain,Madrid,Hortaleza
+Spain,Madrid,Latina
+Spain,Madrid,Moncloa-Aravaca
+Spain,Madrid,Moratalaz
+Spain,Madrid,Puente de Vallecas
+Spain,Madrid,Retiro
+Spain,Madrid,Salamanca
+Spain,Madrid,San Blas-Canillejas
+Spain,Madrid,Tetuán
+Spain,Madrid,Usera
+Spain,Madrid,Vicálvaro
+Spain,Madrid,Villa de Vallecas
+Spain,Madrid,Villaverde
+Sweden,Stockholm,Älvsjö
+Sweden,Stockholm,Bromma
+Sweden,Stockholm,Enskede-Årsta-Vantör
+Sweden,Stockholm,Farsta
+Sweden,Stockholm,Hägersten-Liljeholmen
+Sweden,Stockholm,Hässelby-Vällingby
+Sweden,Stockholm,Kungsholmen
+Sweden,Stockholm,Norrmalm
+Sweden,Stockholm,Östermalm
+Sweden,Stockholm,Rinkeby-Kista
+Sweden,Stockholm,Skärholmen
+Sweden,Stockholm,Skarpnäck
+Sweden,Stockholm,Södermalm
+Sweden,Stockholm,Spånga-Tensta
+United Kingdom,London,Barking and Dagenham
+United Kingdom,London,Barnet
+United Kingdom,London,Bexley
+United Kingdom,London,Brent
+United Kingdom,London,Bromley
+United Kingdom,London,Camden
+United Kingdom,London,City of London
+United Kingdom,London,City of Westminster
+United Kingdom,London,Croydon
+United Kingdom,London,Ealing
+United Kingdom,London,Enfield
+United Kingdom,London,Greenwich
+United Kingdom,London,Hackney
+United Kingdom,London,Hammersmith and Fulham
+United Kingdom,London,Haringey
+United Kingdom,London,Harrow
+United Kingdom,London,Havering
+United Kingdom,London,Hillingdon
+United Kingdom,London,Hounslow
+United Kingdom,London,Islington
+United Kingdom,London,Kensington and Chelsea
+United Kingdom,London,Kingston upon Thames
+United Kingdom,London,Lambeth
+United Kingdom,London,Lewisham
+United Kingdom,London,Merton
+United Kingdom,London,Newham
+United Kingdom,London,Redbridge
+United Kingdom,London,Richmond upon Thames
+United Kingdom,London,Southwark
+United Kingdom,London,Sutton
+United Kingdom,London,Tower Hamlets
+United Kingdom,London,Waltham Forest
+United Kingdom,London,Wandsworth
